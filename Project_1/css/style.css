@@ -1,0 +1,18 @@
+.container{
+  width: 100%;
+  border: 1px solid #333;
+  min-height: 500px;
+}
+.catalog{
+  width: 100%;
+  border: 1px solid #333;
+  text-align: center;
+}
+.product{
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 5px;
+  width: 300px;
+  height: 100px;
+  border: 1px solid #333;
+}
